@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Feiqing
-middle_name: 
-last_name: Huang (Amiee)
+first_name: Amiee
+middle_name: Feiqing
+last_name: Huang
 email: amieehuang@connect.hku.hk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -67,7 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: amieehuang@connect.hku.hk # your GitHub user name
+github_username: Avocada # your GitHub user name
 # gitlab_username: # your GitLab user name
 # twitter_username: # your Twitter handle
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
@@ -162,7 +162,7 @@ collections:
 #     permalink: /projects/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-news_limit: 1 # leave blank to include all the news in the `_news` folder
+news_limit: 2 # leave blank to include all the news in the `_news` folder
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -247,8 +247,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Huang]
+  first_name: [Feiqing]
 
   style: apa
   locale: en
