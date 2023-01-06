@@ -22,4 +22,4 @@ I am a final year PhD student in [Department of Statistics](https://saasweb.hku.
 I received [Hong Kong Postgraduate Fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html) in 2018.
 Prior to joining the PhD program, I obtained my bachelor's degree majoring in statistics and quantitative finance with first class honor from University of Hong Kong.
 
-Please refer to my [cv](https://Avocada.github.io/assets/pdf/HuangFeiqingCV.pdf) here.
+Please refer to my [cv]({{ site.url }}/assets/pdf/HuangFeiqingCV.pdf) here.
