@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-07-14 07:59:00-0400
+date: 2022-12-29 15:59:00-0400
 inline: true
 ---
 
-Received Excellent Teaching Assistant Award (2018-2019) & (2020-2021)
+Short-term visit to University of Connecticut, Department of Statistics, from Feb. 1st to Feb. 28th, 2023.:sparkles: :smile:
