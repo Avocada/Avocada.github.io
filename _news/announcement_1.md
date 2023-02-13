@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-01-20
+date: 2021-07-14 07:59:00-0400
 inline: true 
 ---
 
-The paper entitled "Encoding recurrence into Transformer" was accepted as an oral paper (notable-top-5%)  by ICLR2023.
+Received Excellent Teaching Assistant Award (2018-2019) & (2020-2021)
